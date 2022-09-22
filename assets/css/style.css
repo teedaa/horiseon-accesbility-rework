@@ -1,12 +1,13 @@
+
+/* Universal */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
+
+/* Header */
 
 .header {
     padding: 20px;
@@ -41,6 +42,11 @@ body {
     margin-left: 25px;
 }
 
+/* Body */
+
+body {
+    background-color: #d9dcd6;
+}
 a {
     color: #ffffff;
     text-decoration: none;
@@ -58,7 +64,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Navigation Bar */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,11 +75,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/* Aside */
 
 .benefits {
     margin-right: 20px;
@@ -102,6 +104,14 @@ p {
     max-width: 150px;
 }
 
+/* Main */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +129,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
