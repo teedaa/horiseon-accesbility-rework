@@ -7,11 +7,11 @@ I was given a base HTML code and CSS stylesheet and I reworked the codes so that
 * CSS
 * VS Code
 
-## Usage
 ![screenshot of reworked website](assets/images/screenshot.jpeg)
 [Horiseon](targetURL "https://teedaa.github.io/horiseon-accesbility-rework/")
 
-```.benefit-lead, .benefit-brand, .benefit-cost, {
+```
+.benefit-lead, .benefit-brand, .benefit-cost, {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -25,8 +25,8 @@ I was given a base HTML code and CSS stylesheet and I reworked the codes so that
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}```
-
-## Credits
+}
+```
+# Credits
 Pengteda Cheng
 [Github](targetURL "https://github.com/teedaa")
