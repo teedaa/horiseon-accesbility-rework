@@ -8,7 +8,7 @@ I was given a base HTML code and CSS stylesheet and I reworked the codes so that
 * VS Code
 
 ![screenshot of reworked website](assets/images/screenshot.jpeg)
-[Horiseon]("https://teedaa.github.io/horiseon-accesbility-rework/")
+[Horiseon](https://teedaa.github.io/horiseon-accesbility-rework/)
 
 ```
 .benefit-lead, .benefit-brand, .benefit-cost, {
@@ -29,4 +29,4 @@ I was given a base HTML code and CSS stylesheet and I reworked the codes so that
 ```
 # Credits
 Pengteda Cheng
-[Github]("https://github.com/teedaa")
+[Github](https://github.com/teedaa)
